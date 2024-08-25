@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=6000&vCenter=true&lines=Hi,+I+am+Sadaf+!!!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=6000&vCenter=true&lines=Hi,+I+am+Sadaf+!!!)](https://git.io/typing-svg)
 
 Innovative Computer Science Engineering 
 student focused on software development, 
